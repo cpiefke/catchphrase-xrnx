@@ -2,12 +2,12 @@
 <RenoiseScriptingTool doc_version="0">
   <Name>AwesomeSawce</Name>
   <Id>nl.jeweett.AwesomeSawce</Id>
-  <Version>1.2</Version>
-  <ApiVersion>3</ApiVersion>
+  <Version>1.12</Version>
+  <ApiVersion>5</ApiVersion>
   <Author>Cas Marrav | Casper</Author>
   <AutoUpgraded>false</AutoUpgraded>
   <Category>AwesomeSawce</Category>
-  <Description>Generate (de)tuned Supersaw waves etc. (v1.1beta)</Description>
+  <Description>Generate (de)tuned Supersaw waves etc. (v1.12beta)</Description>
   <Homepage>http://music.jeweett.nl</Homepage>
   <Platform/>
   <Icon/>
